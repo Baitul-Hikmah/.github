@@ -5,7 +5,7 @@
 ![Projects](https://img.shields.io/badge/projects-60+-important)
 ![Living](https://img.shields.io/badge/living-Natore-3c9)
 ![views](https://komarev.com/ghpvc/?username=shahriyarhosen&label=Profile%20views&color=0e75b6&style=flat)
-[![Github](https://img.shields.io/github/followers/Shahriyar-Hosen?label=Follow&style=social)](https://github.com/Shahriyar-Hosen)&nbsp;
+[![Github](https://img.shields.io/github/followers/Baitul-Hikmah?label=Follow&style=social)](https://github.com/Baitul-Hikmah)&nbsp;
 
 <h1 align="center" >💥 💫💥 Welcome To My Github Profile 💥💫💥</h1>
 
@@ -42,7 +42,7 @@
 
 - 🎯 I’m currently learning Next.js.
 - 🥅 2025 Goals: To be a Master of Next JS, AWS, and start learning DevOps
-- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://shahriyar-hosen.web.app) for more details about me.
+- 🕵️‍♂️ Please have a look at my [Portfolio Site](https://Baitul-Hikmah.web.app) for more details about me.
 - 💻 Currently working on [Hablu Programmer](https://www.hablu-programmer.com)
 - 🤔 I’m looking for help with To increase efficiency
 - 📫 How to reach me: shahriyar.hosen.dev@gmail.com
@@ -61,15 +61,15 @@
       <td colspan="1" align="center">
         <img
           width="400px"
-          alt="Shahriyar-Hosen :: Profile Stats"
-          src="https://github-readme-stats.vercel.app/api?username=Shahriyar-Hosen&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
+          alt="Baitul-Hikmah :: Profile Stats"
+          src="https://github-readme-stats.vercel.app/api?username=Baitul-Hikmah&theme=blue-green&amp;show_icons=true&amp;count_private=true&amp;hide_border=true"
         />
       </td>
       <td colspan="1" align="center">
       <img
           align="center"
           width="400px"
-          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shahriyar-Hosen&theme=blue_green"
+          src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baitul-Hikmah&theme=blue_green"
           alt="Profile details" 
         />
       </td>
@@ -79,7 +79,7 @@
        <img
           align="center"
           width="70%"
-          src="https://github-readme-streak-stats.herokuapp.com?user=Shahriyar-Hosen&theme=blue-green&hide_border=true"
+          src="https://github-readme-streak-stats.herokuapp.com?user=Baitul-Hikmah&theme=blue-green&hide_border=true"
         />
       </td>
     </tr>
@@ -88,12 +88,12 @@
        <div style="display: flex; justify-content: center; align-items: start;" justify="center" align="center">
           <img
             width="460px"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shahriyar-Hosen&theme=blue_green&utcOffset=6"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Baitul-Hikmah&theme=blue_green&utcOffset=6"
           />
          <img
             width="340px"
-            alt="Shahriyar-Hosen :: Top Langs"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriyar-Hosen&langs_count=20&theme=blue-green&layout=compact&hide=html"
+            alt="Baitul-Hikmah :: Top Langs"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baitul-Hikmah&langs_count=20&theme=blue-green&layout=compact&hide=html"
          />
         </div>
       </td>
@@ -101,8 +101,8 @@
     <tr>
       <td colspan="2">
         <div style="display: flex; justify-content: center;" align="center">
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by repo" width="400" />
-          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shahriyar-Hosen&theme=blue_green" alt="Top languages by commit" width="400" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Baitul-Hikmah&theme=blue_green" alt="Top languages by repo" width="400" />
+          <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Baitul-Hikmah&theme=blue_green" alt="Top languages by commit" width="400" />
         </div>
       </td>
     </tr>
@@ -113,7 +113,7 @@
 <!-- === === === === === === Contribution Graph === === === === === === === === -->
 <!-- <h1 align="center">♻️📈 Contribution Graph 📉♻️</h1> -->
 
-<!-- [![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahriyar-Hosen&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+<!-- [![Shahriyar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Baitul-Hikmah&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
 
 <!-- === === === === === === Technologies that I know === === === === === === === -->
 
@@ -223,7 +223,7 @@
 
 <!-- <p align="center">  -->
   <!-- <a align="center" href="https://github.com/ryo-ma/github-profile-trophy"> -->
-<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=Shahriyar-Hosen&column=9&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
+<img align='center' width='100%' src="https://github-profile-trophy.vercel.app/?username=Baitul-Hikmah&column=9&theme=darkhub&margin-w=10&no-frame=true&no-bg=true"/>
   <!-- </a> -->
 <!-- </p> -->
 
